@@ -1,0 +1,7 @@
+h1:hover{color:red;
+    cursor: grab;
+}
+
+a:active{background-color: blue;}
+
+input:focus{background-color: orange;}
